@@ -11,3 +11,8 @@ body{
   position: fixed;
   margin-top: -2%;
 }
+
+nav ul{
+  padding: 0px;
+  list-style-type: none;
+}
