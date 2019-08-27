@@ -2,6 +2,7 @@ body{
   background: #ddd;
   margin: 0px;
   padding: 0px;
+  font-family: Helvetica;
 }
 
 #navbar{
@@ -35,4 +36,10 @@ main{
 
 #welcome-section{
   margin-top: 3.5%;
+}
+
+.about-me-yusuf{
+  width: 100%;
+  display: block;
+  text-align: center;
 }
