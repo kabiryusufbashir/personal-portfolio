@@ -1,3 +1,10 @@
 body{
   background: #ddd;
 }
+
+#navbar{
+  width: 100%;
+  background: #333;
+  height: 65px;
+  position: fixed;
+}
