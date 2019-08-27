@@ -7,9 +7,10 @@ body{
 #navbar{
   width: 100%;
   background: #333;
-  height: 65px;
   position: fixed;
-  margin-top: -2%;
+  top: 0px;
+  left: 0px;
+  margin-bottom: 202%;
 }
 
 nav ul{
@@ -21,10 +22,12 @@ nav ul{
 
 nav li{
   flex-basis: 200px;
-  margin-top: 10px;
 }
 
 a{
   text-decoration: none;
   color: #fff;
+}
+
+main{
 }
