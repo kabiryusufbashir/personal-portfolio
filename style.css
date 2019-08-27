@@ -16,11 +16,9 @@ nav ul{
   padding: 0px;
   list-style-type: none;
   display: flex;
-  flex-wrap: wrap;
   justify-content: flex-end;
 }
 
 nav li{
-  flex-grow: 1;
   flex-basis: 200px;
 }
