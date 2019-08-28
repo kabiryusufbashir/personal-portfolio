@@ -53,3 +53,12 @@ main{
   padding: 2% 5%;
   text-align: justify;
 }
+
+#projects{
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.project-title{
+  grid-column: 1/4;
+  background: pink;
+}
