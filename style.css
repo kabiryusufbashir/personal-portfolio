@@ -85,3 +85,10 @@ main{
 .padding{
   padding: 2% 0px;
 }
+
+footer{
+  width: 100%;
+  float: left;
+  background: #333;
+  padding: 2% 0px;
+}
