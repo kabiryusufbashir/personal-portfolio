@@ -64,6 +64,14 @@ main{
   float: left;
 }
 
+.projects-web-app h2{
+  background: #333;
+  color: #fff;
+  width: 100%;
+  float: left;
+  padding: 1% 0px;
+}
+
 .col-quarter{
   width: 46%;
   float: left;
