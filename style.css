@@ -60,11 +60,12 @@ main{
   text-align: center;
   color: #000;
   width: 90%;
+  background: #fff;
   float: left;
 }
 
 .col-quarter{
-  width: 21%;
+  width: 46%;
   float: left;
   margin: 0px 2%;
 }
