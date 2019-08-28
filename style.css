@@ -59,6 +59,14 @@ main{
   font-size: 90%;
   text-align: center;
   color: #000;
+  width: 90%;
+  float: left;
+}
+
+.col-quarter{
+  width: 21%;
+  float: left;
+  margin: 0px 2%;
 }
 
 .projects-web-app img{
