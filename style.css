@@ -141,4 +141,9 @@ iframe{
     height: 180px;
     width: 100%;
   }
+
+  footer a{
+    display: block;
+    padding: 2% 0px;
+  }
 }
