@@ -115,6 +115,20 @@ iframe{
 }
 
 @media screen and  (max-width: 760px){
+  nav ul{
+    display: block;
+    text-align: center;
+  }
+
+  nav ul li{
+    border-bottom: 2px solid #fff;
+    padding-bottom: 1%;
+  }
+
+  #welcome-section{
+    margin-top: 5%;
+  }
+
   .col-half{
     width: 96%;
   }
