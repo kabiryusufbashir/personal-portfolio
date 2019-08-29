@@ -107,3 +107,8 @@ footer{
    border-radius: 5px;
    padding-top: 2px;
 }
+
+iframe{
+  width: 90%;
+  height:280px;
+}
