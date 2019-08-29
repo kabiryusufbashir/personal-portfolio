@@ -24,6 +24,10 @@ nav li{
   flex-basis: 200px;
 }
 
+nav ul li a{
+    text-transform: uppercase;
+}
+
 a{
   text-decoration: none;
   color: #fff;
@@ -122,11 +126,11 @@ iframe{
 
   nav ul li{
     border-bottom: 2px solid #fff;
-    padding-bottom: 1%;
+    padding: 1% 0px;
   }
 
   #welcome-section{
-    margin-top: 5%;
+    margin-top: 33%;
   }
 
   .col-half{
