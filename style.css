@@ -36,7 +36,7 @@ main{
 
 #welcome-section{
   margin-top: 3.5%;
-  height: 100vh;
+  min-height: 100vh;
 }
 
 .about-me-yusuf{
@@ -112,4 +112,15 @@ footer{
 iframe{
   width: 90%;
   height:280px;
+}
+
+@media screen and  (max-width: 760px){
+  .col-half{
+    width: 96%;
+  }
+
+  iframe{
+    height: 180px;
+    width: 100%;
+  }
 }
